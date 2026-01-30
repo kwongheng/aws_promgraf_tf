@@ -1,4 +1,4 @@
-# terraformaws_promgraf
+# aws_promgraf_tf
 This set of terraform files are useful if you want a quick setup of prometheus, node exporter
 and grafana server, for demo or education or testing purpose. The images uses Ubuntu and 
 the shell scripts are written (with help from Grok) for Ubuntu. If you want to use different
